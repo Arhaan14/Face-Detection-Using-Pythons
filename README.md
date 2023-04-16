@@ -1,4 +1,4 @@
-# Face-Detection-Using-Pythons
+# Face-Detection-Using-Python
 It is a software which can detect multiple faces in a single frame and can number them very easily.
 Facial detection software using Python is a technology that enables computers to identify human faces in digital images and videos. This technology has become popular in various fields, including security, marketing, and entertainment.
 
